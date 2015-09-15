@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RemoteServiceExample</string>
+    <string name="service_stop">Stop service</string>
+    <string name="service_start">Start service</string>
+</resources>
